@@ -153,7 +153,7 @@ console.log(a.retrieve());
 
 
 
-make the code run once
+// make the code run once
 let x;
 function abc () {
     let called = 0;
