@@ -13,7 +13,6 @@ let user = "John";
 
 function local () {
     // local scope
-
     console.log(user);
 }
 
